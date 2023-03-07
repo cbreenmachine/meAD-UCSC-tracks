@@ -1,1 +1,1 @@
-track type=bigLolly name="bigLolly trial" description="A bigLolly file" bigDataUrl=ack type=bigLolly name="bigLolly Example Two: SNP data" description="A second bigLolly file" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/lolly.bb lollyField=pValueLog visibility=full
+track type=bigLolly name="bigLolly trial" description="A bigLolly file" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/lolly.bb lollyField=pValueLog visibility=full
