@@ -1,1 +1,1 @@
-track type=bigLolly name="bigLolly trial" description="A bigLolly file" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/lolly.bb lollyField=pValueLog visibility=full
+`track type=bigLolly name="bigLolly of lFDRs" description="lFDRs, hyper (blue), hypo (yellow)" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/lolly.bb lollyField=pValueLog visibility=full`
