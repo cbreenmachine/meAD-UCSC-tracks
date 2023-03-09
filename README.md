@@ -6,4 +6,4 @@ This repo contains data for UCSC upload.  Copy the snippets below and change the
 
 and 
 
-`track type=bigInteract name="Interactions" description="Interactions from PCHi-C" useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions.bb visibility=full`  
+`track type=bigInteract name="Interactions" description="Interactions from PCHi-C" useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions.bb visibility=full lollySizeField=lollySize`  
