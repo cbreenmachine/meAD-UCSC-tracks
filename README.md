@@ -7,3 +7,10 @@ This repo contains data for UCSC upload.  Copy the snippets below and change the
 and 
 
 `track type=bigInteract name="Promoter-Enhancer Interactions" description="Interactions from PCHi-C" useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions.bb visibility=full`  
+
+
+## Version for paper (April 27, 2023)
+
+`track type=bigLolly name="DMPs" description=" " bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/DMPs-lolly.hg38.bb lollySizeField=lollySize visibility=full`
+
+`track type=bigInteract name="Promoter-Enhancer Interactions" description=" " useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions-with-DMP.hg38.bb visibility=full`
