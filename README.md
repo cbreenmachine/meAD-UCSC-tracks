@@ -10,7 +10,8 @@ and
 
 
 ## Version for paper (April 27, 2023)
+```
+track type=bigLolly name="DMPs" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/DMPs-lolly.hg38.bb lollySizeField=lollySize visibility=full
 
-`track type=bigLolly name="DMPs" bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/DMPs-lolly.hg38.bb lollySizeField=lollySize visibility=full
-
-track type=bigInteract name="Promoter-Enhancer Interactions" useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions-with-DMP.hg38.bb visibility=full`
+track type=bigInteract name="Promoter-Enhancer Interactions" useScore=on bigDataUrl=https://raw.githubusercontent.com/cbreenmachine/UCSC-data/main/interactions-with-DMP.hg38.bb visibility=full
+```
